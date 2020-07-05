@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="coolblue1">#56CCF2</color>
+    <color name="coolblue2">#2F80ED</color>
+
+    <color name="mainbg1">#1E1E22</color>
+    <color name="mainbg2">#393837</color>
+
+    <color name="coolOrange1">#F2994A</color>
+    <color name="coolOrange2">#F2C94C</color>
+    <color name="coolpink1">#E30909</color>
+    <color name="coolpink2">#EF5454</color>
+
+
+
+
+</resources>
